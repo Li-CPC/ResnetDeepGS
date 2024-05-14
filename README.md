@@ -1,5 +1,5 @@
 # ResnetDeepGS
-
+The format of the dataset directory is as follows:
 --wheat
   --trait1
   --trait2
