@@ -22,6 +22,7 @@ The format of the dataset directory is as follows:
 ​				**--RFE_1000.csv**
 
 Run the model
+
 `python run.py -p=./wheat/FS/ -bs=32 -epoch=200 -lr=0.001 -kf=5 -seed=42`
 
 -path	dataset path
